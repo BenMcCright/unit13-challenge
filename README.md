@@ -3,7 +3,7 @@ The Power of the Cloud and Unsupervised Learning. I will be taking what I've lea
 
 ## Robo Advisor for Retirement Plans
 
-![robot.jpeg](Images/robot.jpeg)
+![robot.jpeg](Images/robot.jpg)
 
 ## Background
 
